@@ -4,7 +4,7 @@
   
 - ⛓️ Tumbling down the crypto rabbit hole since 2017.
   
-- :atom: [@cosmos](https://github.com/cosmos) / [@interchain](https://github.com/interchainio) / [@ibc-go](https://github.com/cosmos/ibc-go).
+- :atom: Prev [@cosmos](https://github.com/cosmos) / [@interchain](https://github.com/interchainio) / [@ibc-go](https://github.com/cosmos/ibc-go).
 
 <!--
 **seantking/seantking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
