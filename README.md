@@ -1,4 +1,10 @@
-### Hi there 👋
+###  🍄 About Me 
+
+- 🧰 I'm a programmer, enjoying writing software for the last 10 years.
+  
+- ⛓️ Tumbling down the crypto rabbit hole since 2017.
+  
+- :atom: Previously @cosmos/@interchainio/@ibc-go.
 
 <!--
 **seantking/seantking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
