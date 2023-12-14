@@ -1,10 +1,14 @@
 ###  🍄 About Me 
 
-- 🧰 I'm a programmer, enjoying writing software for the last 10 years.
+- 🧰 I'm a programmer, enjoying designing and building (and often times breaking) software for the last 10 years.
   
 - ⛓️ Tumbling down the crypto rabbit hole since 2017.
+
+- 🎨 Crafting [protocols](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) for cross chain account management over decentralized, permissionless bridges.
   
 - :atom: Previously maintaining [@cosmos](https://github.com/cosmos) / [@interchain](https://github.com/interchainio) / [@ibc-go](https://github.com/cosmos/ibc-go).
+
+
 
 <!--
 **seantking/seantking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
