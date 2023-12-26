@@ -1,4 +1,4 @@
-###  🍄 About Me 
+### About Me 
 
 - 🧰 I'm a programmer, enjoying designing and building (and often times breaking) software for the last 10 years.
   
