@@ -1,6 +1,4 @@
 ### About Me 
-
-- 🧰 I'm a programmer, enjoying designing and building (and often times breaking) software for the last 10 years
   
 - :atom: Previously [@cosmos](https://github.com/cosmos) / [@interchain](https://github.com/interchainio) / [@ibc-go](https://github.com/cosmos/ibc-go) / [@binary.builders](https://binary.builders/).
 
