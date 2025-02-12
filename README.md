@@ -1,6 +1,7 @@
 ### About Me 
   
-- :atom: Previously [@cosmos](https://github.com/cosmos) / [@interchain](https://github.com/interchainio) / [@ibc-go](https://github.com/cosmos/ibc-go) / [@binary.builders](https://binary.builders/).
+- Previously [@cosmos](https://github.com/cosmos) / [@interchain](https://github.com/interchainio) / [@ibc-go](https://github.com/cosmos/ibc-go) / [@binary.builders](https://binary.builders/)
+- Currently: 🐒
 
 <!--
 **seantking/seantking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
